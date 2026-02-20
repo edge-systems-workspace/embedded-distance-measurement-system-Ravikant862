@@ -11,6 +11,18 @@
  */
 
 
+ // TODO 1:
+ // Define TRIG pin (Use pin 9)
+
+ // TODO 2:
+ // Define ECHO pin (Use pin 10)
+
+ // TODO 3:
+ // Create variable to store duration
+
+ // TODO 4:
+ // Create variable to store calculated distance
+
 void setup() {
 
     // TODO 5:
