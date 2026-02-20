@@ -10,7 +10,6 @@
  * and displays structured output via Serial Monitor.
  */
 
-
  // TODO 1:
  // Define TRIG pin (Use pin 9)
 
